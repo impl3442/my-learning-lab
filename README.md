@@ -1,6 +1,6 @@
 # my-learning-lab
 
-> **Stay hungry, stay foolish**
+> **Stay hungry, stay foolish.**
 
 這是一個在地獄中煉成的幾何秩序。它將混沌的生命壓力，轉譯為結構化的邏輯路徑。這不只是程式碼的堆疊，而是一個從「磨難」到「覺醒」的架構證明。
 
