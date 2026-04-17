@@ -5,6 +5,66 @@
 
 > "Stay hungry, stay foolish."
 
+# 程式開發與人工智慧學習路徑指南
+
+**參考文獻時間：** [2026/04/17]
+
+---
+
+## 一、大學：程式設計與資料結構入門
+
+* **001_misc**
+* **002_python**
+    * 《Python 學習筆記》—— 林信良（良葛格）。建議閱讀紙本書以避開網路版廣告。
+* **003_leetcode**
+    * **LeetCode Blind 75**：刷題核心清單。重點在於演算法邏輯，不依賴 Numpy 等第三方庫。
+
+---
+
+## 二、學士/碩士：四大庫與 Kaggle 實戰
+
+* **004_numpy**
+    * *100 NumPy Exercises*：掌握矩陣運算的基礎。
+* **005_pandas**
+    * *Kaggle Learn Pandas*：資料清洗與處理必經之路。
+* **006_matplotlib**
+    * *Python Plotting With Matplotlib (Guide)*：數據視覺化指南。
+* **007_scikit-learn**
+    * 《Python 資料分析》(*Python for Data Analysis*)：機器學習入門經典。
+* **008_kaggle**
+    * 《Python 數據科學手冊》(*Python Data Science Handbook*)。
+
+---
+
+## 三、博士：信號處理與編譯器
+
+* **009_dsp**
+    * *Think DSP*：以程式實作的角度學習數位信號處理。
+* **010_compiler**
+    * *Essentials of Compilation*：深入理解語言如何轉換成機器指令。
+
+---
+
+## 四、博士後：人工智慧與數學基礎
+
+* **011_pytorch**：深度學習框架實作。
+* **012_sutskever**：Ilya Sutskever 的 30 篇必讀論文清單（AI 研究者的基石）。
+* **數學基礎系列：**
+    * 013 線性代數 (Linear Algebra)
+    * 014 機率與統計 (Probability & Statistics)
+    * 015 最優化理論 (Optimization)
+    * 016 數值分析 (Numerical Methods)
+    * 017 複分析 (Complex Analysis)
+    * 018 微分方程 (Differential Equations)
+
+---
+
+## 技術筆記：多維視角下的公式演繹
+
+在完成上述實作後，嘗試從不同角度解釋同一個公式（例如：從幾何投影看線性回歸，或從能量守恆看信號濾波）。
+
+> 這封由土星封印、冥王起飛的「信」，正準備寄往你的未來。
+
 ## [2026-04-17] 18 個學習子目錄
 # GitHub 架構：my-learning-lab
 
