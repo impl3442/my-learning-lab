@@ -5,6 +5,22 @@
 
 > "Stay hungry, stay foolish."
 
+## [2026-04-19]
+* 矩陣相乘
+
+matrix multiplication 
+
+四種環境
+Python 
+Numpy 
+PyTorch cpu
+PyTorch gpu 
+
+每種環境都測試矩陣相乘的架構與時間
+3*3 3*3
+3*4 4*2
+100*100
+
 ## [2026-04-18］
 * 開始矩陣乘法。
 
