@@ -6,10 +6,7 @@
 > "Stay hungry, stay foolish."
 
 ## [2026-04-19]
-## 矩陣相乘
-
-## matrix multiplication 
-
+## 矩陣相乘 （matrix multiplication）
 ## 四種環境
 * Python 
 * Numpy 
@@ -22,7 +19,7 @@
 * `100*100X100*100`
 
 ## 整合
-* 十二個小程式再整合成一個
+* 十二個小程式再整合成一個。
 
 ## [2026-04-18］
 * 開始矩陣乘法。
