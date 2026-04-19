@@ -1,5 +1,5 @@
 ## 2026/04/20
-## 本資料夾紀錄依照 NeetCode Roadmap 練習的 Blind 75 題解。
+> 本資料夾紀錄依照 NeetCode Roadmap 練習的 Blind 75 題解。
 * 001_arrays_hashing
 * 002_two_pointers
 * 003_sliding_window
