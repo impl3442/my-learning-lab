@@ -6,27 +6,7 @@
 > "Stay hungry, stay foolish."
 
 ## [2026-04-20]
-* 重新確認根目錄順序。
 * 在 003_leetcode 確認子目錄順序。
-
-* 001_misc
-* 002_python
-* 003_leetcode
-* 004_numpy
-* 005_pandas
-* 006_matplotlib
-* 007_scikit_learn
-* 008_kaggle
-* 009_dsp
-* 010_compiler
-* 011_pytorch
-* 012_sutskever
-* 013_linear_algebra
-* 014_probability_statistics
-* 015_optimization
-* 016_numerical_methods
-* 017_complex_analysis
-* 018_differential_equations
 
 ## [2026-04-19]
 ## 矩陣相乘 （matrix multiplication）
