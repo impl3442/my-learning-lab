@@ -5,6 +5,10 @@
 
 > "Stay hungry, stay foolish."
 
+## [2026-04-21]
+> 019_prompt_engineering
+* 先看一下李宏毅在均一：給高中生的人工智慧。
+
 ## [2026-04-20]
 * 在 003_leetcode 確認子目錄順序。
 
