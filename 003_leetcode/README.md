@@ -1,3 +1,7 @@
+## 2026/04/22
+> LeetCode 相關的整理
+* [LeetCode Lists](https://leetcode.com/discuss/post/3691891/leetcode-lists-for-blind-75-grind-75-gri-drdb/)
+
 ## 2026/04/21
 > Grind 75
 * Grind 75 是由原 Blind 75 作者打造的現代化 LeetCode 刷題清單（已擴充至 169 題以上），旨在透過精選的 75 道題目，涵蓋演算法與資料結構中最關鍵的知識點。它透過Grind 75 網站自訂題目順序、難度與預計完成時間，幫助求職者以高CP值方式系統化準備技術面試。
