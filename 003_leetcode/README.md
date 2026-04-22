@@ -1,4 +1,10 @@
 ## 2026/04/22
+> 幾本中文書，可以先看。
+* 鄒恆明。演算法之道。碁峰。
+* 石田保輝。演算法圖鑑。臉譜。
+* 吳燦銘。圖說演算法。博碩。
+
+## 2026/04/22
 > LeetCode 相關的整理
 * [LeetCode Lists](https://leetcode.com/discuss/post/3691891/leetcode-lists-for-blind-75-grind-75-gri-drdb/)
 
