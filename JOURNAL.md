@@ -5,6 +5,12 @@
 
 > "Stay hungry, stay foolish."
 
+##［2026-04-22］
+> 與 AI 討論過
+* 維持在 18 個目錄就好了。
+* 019_prompt_engineering 就不擴充了。
+* 眾鳥在林，不如一鳥在手。更何況是十八隻。
+
 ## [2026-04-21]
 > 019_prompt_engineering
 * 先看一下李宏毅在均一：給高中生的人工智慧。
