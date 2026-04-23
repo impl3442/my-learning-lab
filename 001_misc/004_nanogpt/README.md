@@ -8,5 +8,6 @@
 Checkpoint — 自動儲存最佳 val loss
 在 Colab T4 上大約跑 10～15 分鐘就能看到像樣的莎士比亞風格輸出。
 * 把這個也推上 GitHub，然後開 Colab 跑看看。
+* train.py 裡有 from nanogpt import GPT, GPTConfig，所以兩個檔案要在同一層。
 
 2026/04/23
