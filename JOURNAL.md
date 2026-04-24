@@ -5,6 +5,10 @@
 
 > "Stay hungry, stay foolish."
 
+## [2026-04-24]
+> The Man Who Built GPT Just Killed the Age of Scaling. Here’s Why.
+* [Simple Code](https://rakiabensassi.medium.com/ai-training-agi-and-super-intelligence-reasoning-0726622a1287)
+
 ## [2026-04-23]
 > 收到胡嘉璽 Sutskever 30 中文書
 * 基本上是鍛鍊頭腦，想一些基本的。
