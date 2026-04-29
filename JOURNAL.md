@@ -5,6 +5,10 @@
 
 > "Stay hungry, stay foolish."
 
+## [2026-04-29]
+> SAGE
+## 完成 Sage 5.0 設計。距離收到胡嘉璽 Sutskever 30 中文書剛好六天。今天休息。
+
 ## [2026-04-24]
 > The Man Who Built GPT Just Killed the Age of Scaling. Here’s Why.
 * [Simple Code](https://rakiabensassi.medium.com/ai-training-agi-and-super-intelligence-reasoning-0726622a1287)
