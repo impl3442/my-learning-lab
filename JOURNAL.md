@@ -5,6 +5,32 @@
 
 > "Stay hungry, stay foolish."
 
+## [2026-05-09]
+> 18 個目錄
+* 目錄結構
+* 基礎與雜項
+* 001_misc/
+* 002_python/
+* 003_leetcode/
+* 資料科學與機器學習工具
+* 004_numpy/
+* 005_pandas/
+* 006_matplotlib/
+* 007_scikit-learn/
+* 008_kaggle/
+* 系統與理論基礎
+* 009_dsp/
+* 010_compiler/
+* 深度學習與數學基礎
+* 011_pytorch/
+* 012_sutskever/
+* 013_linear-algebra/
+* 014_probability-statistics/
+* 015_optimization/
+* 016_numerical-methods/
+* 017_complex-analysis/
+* 018_differential-equations/
+
 ## [2026-05-08]
 > SAGE
 * 地一、慢想
