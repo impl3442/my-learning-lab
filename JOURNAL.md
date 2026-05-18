@@ -5,6 +5,11 @@
 
 > "Stay hungry, stay foolish."
 
+## [2026-05-18]
+> MacBook 到手
+* MacBook Air 15" 32G 三年保固。64190。
+
+
 ## [2026-05-09]
 > 18 個目錄
 * 目錄結構
