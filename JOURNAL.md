@@ -5,6 +5,13 @@
 
 > "Stay hungry, stay foolish."
 
+## [2026-05-19]
+> FinSage 
+* 國富論
+* 資本論
+* 一般理論
+
+
 ## [2026-05-18]
 > MacBook 到手
 * MacBook Air 15" 32G 三年保固。64190。一年保固原價 56900。
